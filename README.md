@@ -46,3 +46,8 @@ They know how to ship other people's work with a new name and a dark UI.
 That is the entire product.
 
 Source dumped here so nobody has to pretend otherwise.
+
+
+
+Credits
+[confusing.wtf](https://confusing.wtf/)
