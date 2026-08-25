@@ -3,7 +3,7 @@ Azyre (The worst C# codebase known to man)
 A shitty paste.
 Written by someone who does not know object-oriented programming or any form of real computer science.
 
-![Azyre](https://cdn.discordapp.com/attachments/1501301653326790720/1541221654057717860/image.png?ex=6a8cce04&is=6a8b7c84&hm=04bcda2d7b36ad374b74bfea25aabece57759b3e8d2087235f42145c2d193022&)
+![Azyre](https://raw.githubusercontent.com/codingfire23/image-fix/refs/heads/main/itisntreallybad.png)
 
 This source was decompiled and dumped.
 The latest version will be included in releases, they claim to use custom obfuscation and authentication, they use KeyAuth and Xarin (unknown ai slop obfuscator)
